@@ -1,0 +1,31 @@
+{
+  "imageDirectory": "images",
+  
+  "startLocation": "1",
+
+  "1": [
+    "Start Room",
+    {
+      "position": [-20, -2, -10],
+      "ref": "2"
+    }
+  ],
+  "2": [
+    "Bedroom 1",
+    {
+      "position": [30, -10, 8],
+      "ref": "1"
+    },
+    {
+      "position": [-10, -1, -30],
+      "ref": "3"
+    }
+  ],
+  "3": [
+    "Kitchen",
+    {
+      "position": [5, -2, 30],
+      "ref": "2"
+    }
+  ]
+}
