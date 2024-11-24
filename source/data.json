@@ -11,7 +11,7 @@
     }
   ],
   "2": [
-    "Bedroom 1",
+    "Testroom 1",
     {
       "position": [30, -10, 8],
       "ref": "1"
@@ -22,7 +22,7 @@
     }
   ],
   "3": [
-    "Kitchen",
+    "Testroom 2",
     {
       "position": [5, -2, 30],
       "ref": "2"
