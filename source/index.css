@@ -1,0 +1,9 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    font-family: Arial, sans-serif;
+    font-weight: 560;
+}
